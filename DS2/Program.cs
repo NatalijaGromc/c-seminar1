@@ -17,16 +17,16 @@ if (a>b)
 {
     if (a>c)
     {
-        Console.Write ($"max = {a}",a);
+        Console.Write ($"max = {a}");
     }
-    else {Console.Write ($"max = {c}",c);}
+    else {Console.Write ($"max = {c}");}
 }
 
 else
 {
     if (b>c)
     {
-        Console.Write ($"max = {b}",b);
+        Console.Write ($"max = {b}");
     }
-    else {Console.Write ($"max = {c}",c);}
+    else {Console.Write ($"max = {c}");}
 }
