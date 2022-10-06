@@ -1,13 +1,9 @@
-﻿int i, N;
+﻿int N;
 string userEnter;
 
 Console.Write ("Введите число N: ");
 userEnter = Console.ReadLine()!;
 N = int.Parse(userEnter);
-i=2;
-while (i<=N)
-{
-    Console.Write($"{i} ");
-    i=i+2;
-   
-}
+
+Console.Write($"{N/1000*10+(N%100)/10}");
+Console.Write($"{N/100-N%10}");

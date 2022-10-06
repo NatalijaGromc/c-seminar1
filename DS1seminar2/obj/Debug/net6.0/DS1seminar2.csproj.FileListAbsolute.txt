@@ -1,0 +1,15 @@
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\bin\Debug\net6.0\DS1seminar2.exe
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\bin\Debug\net6.0\DS1seminar2.deps.json
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\bin\Debug\net6.0\DS1seminar2.runtimeconfig.json
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\bin\Debug\net6.0\DS1seminar2.dll
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\bin\Debug\net6.0\DS1seminar2.pdb
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.csproj.AssemblyReference.cache
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.AssemblyInfoInputs.cache
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.AssemblyInfo.cs
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.csproj.CoreCompileInputs.cache
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.dll
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\refint\DS1seminar2.dll
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.pdb
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\DS1seminar2.genruntimeconfig.cache
+C:\Users\gromc\OneDrive\Рабочий стол\c#seminar1\DS1seminar2\obj\Debug\net6.0\ref\DS1seminar2.dll
